@@ -1,4 +1,6 @@
 ### Dead_Discord_API
+### Join my discord for any support needed
+### https://discord.gg/m39AUuSatU
 
 ### GetRoleIdFromRoleName
     GET exports.Dead_Discord_API:GetRoleIdFromRoleName(roleName)

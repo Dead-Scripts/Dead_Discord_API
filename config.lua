@@ -5,18 +5,11 @@ Config = {
         ["main"] = "123456789012345678", -- Replace with your actual guild ID
     },
     Bot_Token = 'YOUR_BOT_TOKEN_HERE',
+    -- Optional name -> role ID overrides, used when a role cannot be resolved
+    -- from the guild's live role list. Keys must be unique.
     RoleList = {
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        ["Role_name"] = roleid,
-        -- ["Role_name"] = roleid,
+        -- ["Founder"] = "123456789012345678",
+        -- ["Staff"] = "123456789012345678",
     },
     DebugScript = false,
     CacheDiscordRoles = true,
